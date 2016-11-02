@@ -1,0 +1,8 @@
+venv/
+bookmarks/venv2/
+__pycache__
+.vscode/
+venv2/
+*.sqlite3
+media/
+*.pyc
